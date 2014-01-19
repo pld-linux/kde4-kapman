@@ -4,12 +4,12 @@
 
 Summary:	kapman
 Name:		kde4-kapman
-Version:	4.12.0
+Version:	4.12.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	3510b6096c6816abfe7c3fbcb75b8da9
+# Source0-md5:	fea1eba62c3986d10f96006b1a2385db
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
